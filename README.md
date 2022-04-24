@@ -1,6 +1,6 @@
 # I'm poppy!
 
-<img src="https://raw.githubusercontent.com/ignpoppyseed/ignpoppyseed/cc2484869b4d7b5d7da239e36073834e63e39655/img/logos/logo.png" width="400" align="right">
+<img src="https://raw.githubusercontent.com/ignpoppyseed/ignpoppyseed/cc2484869b4d7b5d7da239e36073834e63e39655/img/logos/logo2.png" width="400" align="right">
 
 Hey! I'm poppy! I'm a beginner Python and HTML developer with experience in Markdown. My main focuses right now are [catgirl](www.github.com/ignpoppyseed/catgirl), my multifunction Discord bot, and Shroomie, a 2D survival/resource management game in Python. 
 
