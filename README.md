@@ -16,7 +16,7 @@ Hey! I'm poppy! I'm a beginner Python and HTML developer with experience in Mark
 **Laptop:** MacBook Pro (15-inch, 2017)
 
 ## Languages
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/markdown%20-ffdd00.svg?&style=for-the-badge&logo=markdown&logoColor=black"> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">  
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/markdown%20-ffdd00.svg?&style=for-the-badge&logo=markdown&logoColor=black"> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img alt="Kotlin" src="hhttps://img.shields.io/badge/python-6a0dad.svg?&style=for-the-badge&logo=kotlin&logoColor=white">  
 
 ## Stats
 
