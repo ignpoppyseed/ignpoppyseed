@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/ignpoppyseed/ignpoppyseed/main/img/logos/logo2.png" width="400" align="right">
 
-Hey! I'm poppy! I'm a beginner Python and HTML developer with experience in Markdown. My main focuses right now are [catgirl](www.github.com/ignpoppyseed/catgirl), my multifunction Discord bot, and Shroomie, a 2D survival/resource management game in Python. 
+Hey! I'm poppy! I'm a beginner Python and HTML developer with experience in Markdown. My main focuses right now are [catgirl](www.github.com/ignpoppyseed/catgirl), my multifunction Discord bot, and Shroomie, a 2D survival/resource management game. 
 
 ## Facts about me
 - My pronouns are she/they
@@ -16,12 +16,12 @@ Hey! I'm poppy! I'm a beginner Python and HTML developer with experience in Mark
 **Laptop:** MacBook Pro (15-inch, 2017)
 
 ## Languages
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/markdown%20-ffdd00.svg?&style=for-the-badge&logo=markdown&logoColor=black"> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-6a0dad.svg?&style=for-the-badge&logo=kotlin&logoColor=white">  
+<img src="https://img.shields.io/badge/C++%20-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-6a0dad.svg?&style=for-the-badge&logo=kotlin&logoColor=white">  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3%20-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/markdown%20-000000.svg?&style=for-the-badge&logo=markdown&logoColor=white">
 
 ## Stats
 
 [![ignpoppyseed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ignpoppyseed)](https://github.com/ignpoppyseed)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ignpoppyseed&layout=compact)](https://github.com/opensourze)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ignpoppyseed&layout=compact)](https://github.com/ignpoppyseed)
 
 ## Social Media
 **Twitter:** [@ignpoppyseed](https://twitter.com/ignpoppyseed)  
