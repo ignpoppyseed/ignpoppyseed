@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/ignpoppyseed/ignpoppyseed/main/img/logos/logo2.png" width="400" align="right">
 
-Hey! I'm poppy! I'm a beginner Python and HTML developer with experience in Markdown. My main focuses right now are [catgirl](www.github.com/ignpoppyseed/catgirl), my multifunction Discord bot, and Shroomie, a 2D survival/resource management game. 
+Hey! I'm poppy! I'm a Python and HTML developer with experience in several other languages. My main focuses right now are egirl, my multifunction Discord bot (which is now verified!), and Shroomie, a 2D survival/resource management game. 
 
 ## Facts about me
 - My pronouns are she/they
