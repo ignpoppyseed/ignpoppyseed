@@ -20,8 +20,8 @@ Hey! I'm poppy! I'm a Python and HTML developer with experience in several other
 
 ## Stats
 
-[![ignpoppyseed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ignpoppyseed)](https://github.com/ignpoppyseed)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ignpoppyseed&layout=compact)](https://github.com/ignpoppyseed)
+[![ignpoppyseed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ignpoppyseed&theme=transparent)](https://github.com/ignpoppyseed)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ignpoppyseed&layout=compact&theme=transparent)](https://github.com/ignpoppyseed)
 
 ## Social Media
 **Twitter:** [@ignpoppyseed](https://twitter.com/ignpoppyseed)  
