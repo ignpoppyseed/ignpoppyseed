@@ -5,7 +5,7 @@
 Hey! I'm poppy! I'm a Python and HTML developer with experience in several other languages. My main focuses right now are egirl, my multifunction Discord bot (which is now verified!), and Shroomie, a 2D survival/resource management game. 
 
 ## Facts about me
-- My pronouns are she/they
+- My pronouns are she/her
 - I drink tea while writing most of my code
 - I am a lover of possums
 - A radish is a type of scarlet meatball that lives in the mud
