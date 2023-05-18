@@ -26,11 +26,14 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     document.addEventListener('wheel', function(event) {
+        event.preventDefault()
+        console.log(event.deltaY)
         if ((Date.now()/1000-scroll_time)>page_delay) {
+            console.log('valid')
             scroll_time = Date.now()/1000;
             sts(gns(event.deltaY))
         }
-    });
+    }, {passive:false});
 });
 
 function gcs() {
